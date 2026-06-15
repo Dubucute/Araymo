@@ -32,7 +32,7 @@ if (empty($text)) {
     exit;
 }
 
-$DEEPSEEK_KEY = 'sk-ec8ae5dda82043858525ae9f6216798f';
+$DEEPSEEK_KEY = 'sk-fc0b34bfa1a64e728f025282339e9855';
 
 $prompt = <<<PROMPT
 Parse the following game script description into tabs and features. 
